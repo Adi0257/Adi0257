@@ -108,16 +108,16 @@ Python • SQL • Power BI • Git • Linux • Cloud Platforms
 ## 🌐 Connect & Collaborate
 
 * GitHub — AI projects and experiments (https://github.com/Adi0257/Adi0257)
-* LinkedIn — Professional updates
-* Hugging Face — Model releases
-* Email — Collaboration opportunities
+* LinkedIn — Professional updates (linkedin.com/in/aditya-shirodkar-a67636241)
+* Hugging Face — Model releases (https://huggingface.co/Andycurrent)
+* Email — Collaboration opportunities (itsmeandy594@gmail.com)
 
 I am open to:
 
-✔ AI research collaborations
-✔ LLM engineering roles
-✔ Applied machine learning projects
-✔ Innovative product development
+✔ AI research collaborations <br>
+✔ LLM engineering roles <br>
+✔ Applied machine learning projects <br>
+✔ Innovative product development <br>
 
 ---
 
