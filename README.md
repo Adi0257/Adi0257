@@ -59,20 +59,37 @@ My work bridges **research + engineering + product deployment**.
 
 ---
 
-## 🧩 AI Projects
+## 🧩 AI Engineering Toolkit
 
-🧑‍💻 **AI Code Reviewer**
-Real-time code analysis system using LLM inference and modern web architecture.
+⚡ **Unsloth**  
+Efficient fine-tuning of Large Language Models with optimized training performance and reduced memory usage.
 
-🌍 **Disaster Intelligence Platform**
-Data-driven prediction and visualization for emergency response systems.
+🦙 **llama.cpp**  
+High-performance LLM inference and deployment with support for quantized models in resource-constrained environments.
 
-🧠 **Intelligent Ecommerce Personalization Engine**
-User behavior modeling and recommendation system.
+🧠 **Llama Factory**  
+End-to-end framework for training, fine-tuning, and managing transformer-based language models.
 
-💬 **Real-Time AI Communication Systems**
-Low-latency interactive platforms using asynchronous architectures.
+🔋 **BitsAndBytes**  
+Low-precision optimization (INT8 / INT4) for memory-efficient training and inference of large models.
 
+🚀 **FastAPI**  
+Production-ready API development for deploying LLM inference services and AI pipelines.
+
+🔎 **LangChain**  
+Framework for building Retrieval-Augmented Generation (RAG) pipelines and context-aware AI systems.
+
+🔥 **PyTorch**  
+Deep learning framework for model training, experimentation, and research workflows.
+
+🤗 **Hugging Face Ecosystem**  
+Model hosting, versioning, and integration for production AI applications.
+
+⚙️ **Model Optimization Techniques**
+Quantization (INT8, INT4, GGUF), performance tuning, and efficient inference pipelines.
+
+🧩 **RAG Architecture**
+Semantic retrieval, knowledge grounding, and context-aware response generation.
 ---
 
 ## 🛠 Technology Stack
