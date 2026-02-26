@@ -15,15 +15,13 @@ Building scalable AI systems, fine-tuning large language models, and deploying r
 
 ## 🧠 AI Identity
 
-I design and deploy **production-ready AI systems** with a focus on:
+I design and deploy production-ready AI systems with a focus on:
 
 * Large Language Model fine-tuning
 * Retrieval-Augmented Generation (RAG) systems
 * Model optimization & quantization
 * AI API deployment pipelines
 * Applied machine learning for real-world problems
-
-My work bridges **research + engineering + product deployment**.
 
 ---
 
@@ -90,6 +88,7 @@ Quantization (INT8, INT4, GGUF), performance tuning, and efficient inference pip
 
 🧩 **RAG Architecture**
 Semantic retrieval, knowledge grounding, and context-aware response generation.
+
 ---
 
 ## 🛠 Technology Stack
