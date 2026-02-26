@@ -105,12 +105,6 @@ Python • SQL • Power BI • Git • Linux • Cloud Platforms
 
 ---
 
-## 🏆 Recognition
-
-⭐ Star Performer in AI Model Optimization & Data Engineering
-
----
-
 ## 🌐 Connect & Collaborate
 
 * GitHub — AI projects and experiments
