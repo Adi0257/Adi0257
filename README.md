@@ -108,7 +108,7 @@ Python • SQL • Power BI • Git • Linux • Cloud Platforms
 ## 🌐 Connect & Collaborate
 
 * GitHub — AI projects and experiments (https://github.com/Adi0257/Adi0257)
-* LinkedIn — Professional updates (linkedin.com/in/aditya-shirodkar-a67636241)
+* LinkedIn — Professional updates (https://linkedin.com/in/aditya-shirodkar-a67636241)
 * Hugging Face — Model releases (https://huggingface.co/Andycurrent)
 * Email — Collaboration opportunities (itsmeandy594@gmail.com)
 
