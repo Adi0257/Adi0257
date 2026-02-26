@@ -107,7 +107,7 @@ Python • SQL • Power BI • Git • Linux • Cloud Platforms
 
 ## 🌐 Connect & Collaborate
 
-* GitHub — AI projects and experiments
+* GitHub — AI projects and experiments (https://github.com/Adi0257/Adi0257)
 * LinkedIn — Professional updates
 * Hugging Face — Model releases
 * Email — Collaboration opportunities
