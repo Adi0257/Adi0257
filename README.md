@@ -121,8 +121,6 @@ I am open to:
 
 ---
 
----
-
 ## 🧭 Personal Philosophy
 
 Build intelligence that solves real problems.
